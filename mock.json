@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Gotler",
+        "followers": "1200",
+        "isCrazy": "1"
+    },
+    {
+        "id": "2",
+        "name": "Staylin",
+        "followers": "4800",
+        "isCrazy": "1"
+    },
+    {
+        "id": "3",
+        "name": "Churchachel",
+        "followers": "3",
+        "isCrazy": "0"
+    }
+]
